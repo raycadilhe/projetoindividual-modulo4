@@ -17,6 +17,6 @@ INT e CHAR.
 
 ***
 
-![Diagrama de Entidade]()
+![Diagrama de Entidade](https://raw.githubusercontent.com/raycadilhe/projetoindividual-modulo4/main/diagrama.jpg)
 
 
